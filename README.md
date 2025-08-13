@@ -19,4 +19,4 @@ y la extencion Live server del mismo
 
 En Visual studio code usando la extensión Live server 
 Hacer clic derecho sobre el archivo index.html y seleccionar "Open with Live Server".
-Se abrirá la web en el navegador y se visualizara la lista de libros la cual es consumida directamente desde ek directorio en el que se creo.
+Se abrirá la web en el navegador y se visualizara la lista de libros la cual es consumida directamente desde el directorio en el que se creo.
