@@ -11,7 +11,6 @@ npm version 10.5.0
   > node .\scrapper.js
 
 Esto generará el archivo "data.json", el cual consume la página web
-> Ejecutar sitio web
 
 -Instrucciones para ejecutar el sitio web
 requisitos 
